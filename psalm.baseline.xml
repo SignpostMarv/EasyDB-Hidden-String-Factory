@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files psalm-version="3.4.0@99e6cd819f829babf50c5852d6f62d40b1fec9d9">
+  <file src="src\Factory.php">
+    <MoreSpecificImplementedParamType occurrences="1">
+      <code>$config</code>
+    </MoreSpecificImplementedParamType>
+  </file>
+</files>
